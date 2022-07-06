@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+Learning React!
+My First Vanilla React Application based from https://www.udemy.com/course/nextjs-react-the-complete-guide/ by Maximilian Schwarzmüller.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
